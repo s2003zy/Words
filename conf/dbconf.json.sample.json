@@ -1,0 +1,22 @@
+{
+    "development"   :   {
+        "domain"    :   "http://127.0.0.1",
+        "mmsql" :   {
+            "host"  :   "127.0.0.1",
+            "port"  :   "3306",
+            "database"  :   "words",
+            "password"  :   "1234567",
+            "username"  :   "root"
+        }
+    },
+    "production"    :   {
+        "domain"    :   "http://127.0.0.1",
+        "mmsql" :   {
+            "host"  :   "127.0.0.1",
+            "port"  :   "3306",
+            "database"  :   "circle",
+            "password"  :   "123456788",
+            "username"  :   "sa"
+        }
+    }
+}
